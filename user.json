@@ -1,0 +1,52 @@
+{
+  "gender": "male",
+  "name" :{
+    "title": "Mr.",
+    "first": "Wrap",
+    "last": "It-Up",
+  },
+  "location": {
+    "street": "Sector 23",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "postcode": "122017",
+    "coordinates": {
+      "latitude" :"latitude",
+      "longitude": "longitude",
+    },
+    "timezone": {
+      "offset": "offset",
+      "description": "description",
+    },
+  },
+  "email": "wrap-it-up@gmail.com",
+  "login": {
+    "uuid": "uuid",
+    "username": "username",
+    "password": "password
+    "salt": "salt",
+    "md5": "md5",
+    "sha1": "sha1",
+    "sha256": "sha256",
+  },
+  "dob": {
+    "date": "30th June 2022",
+    "age": 00,
+  },
+  "registered": {
+    "date": "30th June 2022",
+    "age": 00
+  },
+  "phone": "9999999999",
+  "cell": "9999999999",
+  "id": {
+    "name": "Wrap-it-up",
+    "value": "value",
+  },
+  "picture": {
+    "large": "url-large",
+    "medium": "url-medium",
+    "thumbnail": "url-thumbnail",
+  },
+  "nat": "nat", 
+}
