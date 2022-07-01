@@ -1,0 +1,9 @@
+{
+    "name": "wrap-it-up",
+    "emailid":"wrap-it-up.com",
+    "phoneNo":"9999999999",
+    "password":"wrap-it-up",
+    "confirmPassword": "wrap-it-up",
+    "imageURL":"URL",
+    "isVerify":false
+}
